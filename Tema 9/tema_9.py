@@ -171,7 +171,7 @@ class Login(TestCase):
         expected_url = "https://the-internet.herokuapp.com/login"
         actual_url = self.driver.current_url
         assert expected_url == actual_url, f"Invalid URL, expected {expected_url}, but found {actual_url}"
-        #pentru comittt
+        #pentru comitttdsds
 
 
 
