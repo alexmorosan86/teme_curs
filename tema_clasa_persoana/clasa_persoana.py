@@ -83,4 +83,4 @@ s.set_nota("Fizica", 8)
 s.listare_note()
 # print mesaj daca nu materia nu a fost gasita
 print(s.get_nota("Informatica"))
-# wegfwfgweergrgergergegf3w443w v
+

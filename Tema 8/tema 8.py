@@ -159,11 +159,7 @@ from lib2to3.pgen2 import driver
 # 1 funcție ca și cea de la clasă prin care să pot alege eu prin parametru cu
 # ce element vreau să interacționez.
 
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
+
 
 # driver = webdriver.Chrome()
 # LINK = "https://formy-project.herokuapp.com/modal"
