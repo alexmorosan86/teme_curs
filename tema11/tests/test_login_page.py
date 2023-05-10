@@ -9,12 +9,7 @@ from Teme.tema11.utils.driverfactory import DriverFactory
 
 
 class TestLoginPage(unittest.TestCase):
-    USER_NAME = (By.ID, 'username')
-    PASSWORD = (By.ID, 'password')
-    LOGIN_BTN = (By.XPATH, '//*[@id="login"]/button')
-    LOGIN_PAGE_URL = "https://the-internet.herokuapp.com/login"
-    SUCCESS_MESSAGE = (By.ID, "flash")
-    LOGOUT_BTN = (By.ID,  "content")
+
 
 
     def setUp(self):
